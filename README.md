@@ -56,6 +56,12 @@ else
 docker compose up -d
 ```
 
+update ollama image
+
+```bash
+docker pull ollama/ollama
+```
+
 ### Note
 
 Source https://github.com/mythrantic/ollama-docker
